@@ -38,6 +38,8 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Browse AI](https://browse.ai) - No-code web automation to extract data from any website and monitor changes.
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
+- [LeadHunt](https://github.com/forgeai-cmd/leadhunt) - Find B2B leads from Google Maps, score them 0-100, and reach out via Email/WhatsApp/SMS/AI Voice. Free CLI (`pip install leadhunt`) + MCP server +    
+  SaaS dashboard.
 
 ## Cold Outreach & Email AI
 *The engine for sending emails at scale with high deliverability.*
